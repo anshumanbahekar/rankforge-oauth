@@ -30,7 +30,7 @@ export default async function handler(req, res) {
   }
 
   // Your Discord App Client ID (not secret, safe to hardcode)
-  const DISCORD_CLIENT_ID = 'YOUR_DISCORD_CLIENT_ID'; // <-- replace this
+  const DISCORD_CLIENT_ID = '1465025250189381869'; // <-- replace this
 
   // Client secret is stored as Vercel Environment Variable (never in code)
   const DISCORD_CLIENT_SECRET = process.env.DISCORD_CLIENT_SECRET;
