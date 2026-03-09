@@ -1,0 +1,10 @@
+{
+  "name": "rankforge-discord-oauth",
+  "version": 2,
+  "functions": {
+    "api/discord-oauth.js": {
+      "memory": 128,
+      "maxDuration": 10
+    }
+  }
+}
