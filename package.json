@@ -1,0 +1,6 @@
+{
+  "name": "rankforge-oauth",
+  "version": "1.0.0",
+  "main": "discord-oauth.js",
+  "type": "module"
+}
